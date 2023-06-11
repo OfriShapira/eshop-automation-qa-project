@@ -2,11 +2,10 @@
 ## Introduction
 As part of the final project for the training program, i've designed and developed an end-to-end automation infrastructure in
 Pytest for a microservices-based web application, in addition to planning the full QA process,
-writing a variety of manual test cases and integrating them into the automation infrastructure.
-The test cases will be based on the ordering micro service that will function as a “Unit Under Test” – “EshopOnline” website.
+writing a variety of manual test cases and integrating them into the automation infrastructure.<br />The test cases will be based on the ordering micro service that will function as a “Unit Under Test”.
  
-## Unit under test description
-The UUT for the project is called “EshopOnline”. It’s an online shop website which includes client applications, backend micro services, API Gateways, DBs and an Event bus to communicate between the micro services.
+## System under test description
+The SUT for the project is called “EshopOnline”. It’s an online shop website which includes client applications, backend micro services, API Gateways, DBs and an Event bus to communicate between the micro services.
 The whole system is launched as a docker containers on the local machine.
 Each micro service is running independently as listed in the diagram below:
 
