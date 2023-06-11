@@ -23,7 +23,7 @@ Each micro service is running independently as listed in the diagram below:
 
 ## The QA process documents
 The test plan for the project can be found [here](https://github.com/OfriShapira/eshop-automation-qa-project/blob/ofri-shapira/documents/std/Test%20Plan%20-%20Orders%20Service%20-%20Ofri%20Shapira.docx) (click on 'View raw' to download).<br />
-The project summary presentation can be found [here]([https://github.com/OfriShapira/eshop-automation-qa-project/tree/ofri-shapira/documents/presentation](https://github.com/OfriShapira/eshop-automation-qa-project/blob/ofri-shapira/documents/presentation/ordering-service-testing.pptx)) (click on 'View raw' to download).
+The project summary presentation can be found [here](https://github.com/OfriShapira/eshop-automation-qa-project/blob/ofri-shapira/documents/presentation/ordering-service-testing.pptx) (click on 'View raw' to download).
 
 ## The automation infrastructure
 The automation infrastructure for the ordering service has been written in python, using Pytest as the testing framework, and composed from the following components:
