@@ -1,4 +1,4 @@
-# Final Project for Automation Development Certification by Ofri shapira 
+# Final Project for Automation Development Bootcamp by Ofri shapira 
 ## Introduction
 As part of the final project for the training program, i've designed and developed an end-to-end automation infrastructure in
 Pytest for a microservices-based web application, in addition to planning the full QA process,
